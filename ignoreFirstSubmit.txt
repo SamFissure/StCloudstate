@@ -1,3 +1,0 @@
-There was an error in the submission and a previous, non-functioning version was submitted to the Git.  This was noticed a few
-minutes after deadline and fixed.  The code in ytC4.py is functional, please consider it as the final version.  No edits or changes were 
-made to the project after deadline.  
